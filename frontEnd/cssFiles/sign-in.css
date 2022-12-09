@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* navbar portion  */
+
+.navbar a {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.nav-item {
+    border-radius: 10px;
+    font-weight: bold;
+
+}
+
+.nav-item a:hover {
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+
+}
+
+.sign-head {
+    font-size: 40px;
+}
